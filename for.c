@@ -1,4 +1,4 @@
-#include<iotream.h>
+#include<iostream.h>
 #include<conio.h>
 main()
 {
